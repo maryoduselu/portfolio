@@ -1,0 +1,38 @@
+[
+  {
+    "category": "instructional-design",
+    "title": "Instructional design",
+    "items": [
+      "ADDIE framework",
+      "Curriculum and learning content design",
+      "Storyboarding and lesson planning",
+      "Training needs assessment",
+      "Instructional writing",
+      "Gamification of learning content",
+      "AI-assisted content development"
+    ]
+  },
+  {
+    "category": "web-design",
+    "title": "Web and learning technology",
+    "items": [
+      "WordPress",
+      "LMS design (Tutor LMS)",
+      "Google Workspace",
+      "Google Sites",
+      "Prompt engineering"
+    ]
+  },
+  {
+    "category": "graphic-design",
+    "title": "Design and media",
+    "items": [
+      "Adobe Illustrator",
+      "Photoshop",
+      "Canva",
+      "CapCut",
+      "Powtoon",
+      "Presentation design"
+    ]
+  }
+]

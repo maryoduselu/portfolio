@@ -1,0 +1,168 @@
+{
+  "name": "Mary Oduselu",
+  "brand": "Mary",
+  "role": "Instructional designer, web designer and graphic designer",
+  "siteUrl": "",
+  "email": "maryoduselu@gmail.com",
+  "phone": "+234 809 754 2165",
+  "whatsapp": "",
+  "location": "Lagos, Nigeria",
+  "cv": "",
+  "showPlaceholderBanner": true,
+  "availability": {
+    "open": true,
+    "text": "Open to new projects"
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "url": "https://github.com/maryoduselu"
+    }
+  ],
+  "seo": {
+    "title": "Mary Oduselu | Instructional designer, web designer and graphic designer",
+    "description": "Mary Oduselu designs structured learning content, WordPress websites and brand graphics. Based in Lagos, Nigeria. MBA (Distinction).",
+    "image": ""
+  },
+  "hero": {
+    "eyebrow": "Instructional, web and graphic design portfolio",
+    "intro": "I'm an",
+    "highlight": "Instructional Designer",
+    "rest": "who also builds WordPress websites and designs brand graphics, turning complex ideas into clear, usable experiences.",
+    "lead": "I design structured learning content for children and adult learners, build the websites that deliver it, and create the visuals that hold it together. MBA (Distinction), based in Lagos.",
+    "photo": "/images/mary-hero.jpg",
+    "photoAlt": "Mary Oduselu smiling, wearing a purple top, against a dark background",
+    "statusLabel": "Status",
+    "disciplines": [
+      "instructional-design",
+      "web-design",
+      "graphic-design"
+    ]
+  },
+  "work": {
+    "eyebrow": "Portfolio",
+    "heading": "Learning, websites and visuals I have made.",
+    "intro": "Filter by type, then open a project to read the full case study."
+  },
+  "about": {
+    "eyebrow": "About",
+    "heading": "Structured learning, clear websites and consistent visuals.",
+    "photo": "/images/mary-about.jpg",
+    "photoAlt": "Mary Oduselu smiling, in a black and white floral top, against a green textured backdrop",
+    "paragraphs": [
+      "I am an instructional designer in Lagos with a background in web design, graphic and video content, and curriculum planning. I design structured learning for children and adults, and I build the websites and visuals that go with it.",
+      "Alongside design, I spent ten years in business development, managing B2B clients from proposal to delivery. That is why I plan every project around the audience and the goal, and why I deliver on time. I hold an MBA in Management (Distinction) from Covenant University."
+    ],
+    "tags": [
+      {
+        "label": "Instructional design",
+        "icon": "book"
+      },
+      {
+        "label": "Curriculum design",
+        "icon": "layers"
+      },
+      {
+        "label": "Gamified learning",
+        "icon": "spark"
+      },
+      {
+        "label": "WordPress websites",
+        "icon": "window"
+      },
+      {
+        "label": "Brand identity",
+        "icon": "pen"
+      },
+      {
+        "label": "LMS design",
+        "icon": "cap"
+      }
+    ]
+  },
+  "services": {
+    "heading": "Three disciplines, one habit: start with the person who will use it.",
+    "items": [
+      {
+        "category": "instructional-design",
+        "title": "Instructional design",
+        "description": "Training needs assessment, curriculum and lesson planning, storyboarding and instructional writing using the ADDIE framework, including gamified learning for children and adult learners.",
+        "tools": [
+          "ADDIE",
+          "Tutor LMS",
+          "Google Workspace",
+          "AI-assisted content development"
+        ]
+      },
+      {
+        "category": "web-design",
+        "title": "Web design",
+        "description": "Websites built on WordPress for networks, organisations and clients, from the first sketch to launch and handover.",
+        "tools": [
+          "WordPress",
+          "Google Sites",
+          "Tutor LMS"
+        ]
+      },
+      {
+        "category": "graphic-design",
+        "title": "Graphic design",
+        "description": "Brand identities, event flyers, presentations, short videos and digital products that follow brand colours and guidelines.",
+        "tools": [
+          "Adobe Illustrator",
+          "Photoshop",
+          "Canva",
+          "CapCut",
+          "Powtoon"
+        ]
+      }
+    ],
+    "eyebrow": "Services"
+  },
+  "skills": {
+    "eyebrow": "Skills & tools",
+    "heading": "Skills and tools I use every day."
+  },
+  "process": {
+    "heading": "The same five steps on every project.",
+    "intro": "The same five steps apply whether I am building a course, a website or a brand.",
+    "steps": [
+      {
+        "title": "Discover",
+        "description": "Learn the goal, the audience and the constraints."
+      },
+      {
+        "title": "Design",
+        "description": "Outline the structure and agree the look before building."
+      },
+      {
+        "title": "Develop",
+        "description": "Build the full version in small steps you can review."
+      },
+      {
+        "title": "Deliver",
+        "description": "Launch, hand over files and show you how to update them."
+      },
+      {
+        "title": "Evaluate",
+        "description": "Check the result against the goal and improve it."
+      }
+    ],
+    "eyebrow": "Process"
+  },
+  "experience": {
+    "eyebrow": "Experience",
+    "heading": "Where I have worked and studied.",
+    "educationHeading": "Education",
+    "certificationsHeading": "Courses and certifications"
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "heading": "Kind words from people I have worked with."
+  },
+  "contact": {
+    "heading": "Let's talk about your project.",
+    "text": "Tell me what you are making, who it is for and when you need it. I reply within two working days.",
+    "eyebrow": "Contact"
+  }
+}

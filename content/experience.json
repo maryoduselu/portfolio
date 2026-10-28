@@ -1,0 +1,103 @@
+{
+  "experience": [
+    {
+      "role": "Instructional Designer and Web Developer",
+      "org": "Drug Discovery Innovation Hub (DDIH)",
+      "period": "July 2026 to present",
+      "points": [
+        "Designed and launched the DDIH website on WordPress, giving the network a public platform for its programmes, events and members.",
+        "Built the mentorship programme's learning management system on Tutor LMS, organising content into weekly modules for 20+ mentees.",
+        "Create presentations that explain the network's work to partners, potential funders and members."
+      ]
+    },
+    {
+      "role": "Creative Director",
+      "org": "Gem-Ville Creations",
+      "period": "February 2022 to present",
+      "points": [
+        "Design and manage websites and brand identities for clients, turning goals into clear visual and content solutions.",
+        "Create and sell digital design products on Etsy and Gumroad, managing content creation, listings and customer experience.",
+        "Produce graphics and video content with Illustrator, Photoshop, Canva, Powtoon and CapCut."
+      ]
+    },
+    {
+      "role": "Head, Creativity Unit, Children's Department (volunteer)",
+      "org": "The New and Living Way Church, Lagos",
+      "period": "June 2024 to present",
+      "points": [
+        "Design instructional slides and visual learning materials for children's online classes, using ADDIE to analyse learner needs, develop content and evaluate lessons.",
+        "Plan games and age-appropriate activities that turn lesson objectives into hands-on experiences.",
+        "Gamify learning resources for the yearly children's bootcamp (ages 5 to 12) and run live game sessions.",
+        "Coordinate a volunteer team to deliver learning content consistently across sessions."
+      ]
+    },
+    {
+      "role": "Instructional Designer and Graphics Team Member",
+      "org": "Covenant Centre for Open and Distance e-Learning (CCODeL)",
+      "period": "November 2024 to March 2025",
+      "points": [
+        "Reviewed and updated materials for the university's e-learning course curriculum as part of the Instructional Design team.",
+        "Designed event flyers that followed the brand colours and guidelines, keeping social media consistent."
+      ]
+    },
+    {
+      "role": "Business Development Manager",
+      "org": "Safety & Sanitary Engineering Co. (SASEC)",
+      "period": "October 2014 to September 2024",
+      "points": [
+        "Promoted from Business Development Officer to Manager in 2018, after four years in the role.",
+        "Secured major infrastructure projects, including sewage treatment, borehole and water treatment installations, for clients such as Marriott Hotel Ikeja, RCCG Trinity Towers, Redeemer's Health Village, Dangote Head Office and Lagos Business School.",
+        "Managed multi-stakeholder client relationships and turned technical requirements into clear proposals.",
+        "Coordinated cross-functional teams and project timelines from proposal to delivery."
+      ]
+    },
+    {
+      "role": "Content Strategist",
+      "org": "Edubridge Consultants Limited",
+      "period": "October 2013 to September 2014",
+      "points": [
+        "Created social media content, including a page selected and featured by the Google Nigeria team for its Google Plus promotion programme.",
+        "Developed digital marketing proposals with content strategies, social media plans and expected outcomes."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "MBA, Management",
+      "school": "Covenant University, Ota, Nigeria",
+      "period": "2024 to 2026",
+      "note": "Graduated with Distinction (4.96/5.00), top of the class, while working full time and managing family responsibilities."
+    },
+    {
+      "title": "BSc, Computer Science (Second Class, Upper Division)",
+      "school": "Covenant University, Ota, Nigeria",
+      "period": "2008 to 2012"
+    }
+  ],
+  "certifications": [
+    {
+      "title": "The Complete Instructional Designer Course",
+      "issuer": "John Hinchliffe, Udemy"
+    },
+    {
+      "title": "Google AI Fundamentals",
+      "issuer": "Google Career Certificates, Coursera"
+    },
+    {
+      "title": "AI for Every Employee: Understanding and Using AI",
+      "issuer": "Kurt Anderson, Udemy"
+    },
+    {
+      "title": "Adobe Illustrator: Advanced Vector Artwork",
+      "issuer": "Widhi Muttaqien, Udemy"
+    },
+    {
+      "title": "1-Month Intensive Career Readiness Accelerator",
+      "issuer": "SmartWorkerHQ"
+    },
+    {
+      "title": "Blender 3D Design, beginner to intermediate",
+      "issuer": "Xane Graphics"
+    }
+  ]
+}
